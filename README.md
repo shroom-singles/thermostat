@@ -4,7 +4,7 @@
 [![release][release-badge]][release-url]
 ![downloads][downloads-badge]
 
-## What is this
+## What is this?
 
 This is a thermostat/climate card for use with the amazing Mushroom 🍄 &nbsp;cards.
 
@@ -12,15 +12,19 @@ This is a thermostat/climate card for use with the amazing Mushroom 🍄 &nbsp;c
 
 - [Offical Mushroom][mushroom-url] card package
 
-## Installtion
+## Installation
 
-It can be installed via custom HACS repository.
+It can be installed via custom HACS repository. As mentioned above it is dependant on having Mushroom cards installed and will not function without it.
 
 ## Future
 
 This card will be updated as needed to keep inline with future releases of Mushroom.
 
 This card has been submitted for inclusion in the offical Mushroom package. If at some point an official card is released (this one or another one) this package may be removed.
+
+## Reporting Issues
+
+This repository is simply the release repository. All the code is managed at [https://github.com/ulic75/lovelace-mushroom/tree/ss/thermostat](https://github.com/ulic75/lovelace-mushroom/tree/ss/thermostat) and as such all issues should be filed there.
 
 <!-- Badges -->
 
