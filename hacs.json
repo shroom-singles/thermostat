@@ -1,0 +1,6 @@
+{
+  "name": "Shroom Singles Thermostat",
+  "filename": "shroom-singles-thermostat.js",
+  "homeassistant": "2022.3",
+  "render_readme": true
+}
