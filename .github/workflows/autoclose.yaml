@@ -1,0 +1,13 @@
+on:
+  issues:
+    types: [opened]
+jobs:
+  titlePrefixCheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close Issue
+        uses: peter-evans/close-issue@v2
+        with:
+          comment: |
+            Issues should be reported at https://github.com/ulic75/lovelace-mushroom/issues
+            Auto-closing this issue.
